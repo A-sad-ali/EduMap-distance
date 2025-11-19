@@ -1,0 +1,7 @@
+{
+  "name": "EduMap & Distance Calc",
+  "description": "A comprehensive mapping tool combining HSSC/College data visualization with pin-to-pin distance and routing calculations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
